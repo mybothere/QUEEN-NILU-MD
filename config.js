@@ -14,18 +14,18 @@ function convertToBool(text, fault = 'true') {
 
 // PUT YOUR SESSION ID HERE  ##Required 
 
-global.SESSION_ID = '' // PUT your session ID BY scan QR 
+global.SESSION_ID = 'QUEENNILU;;;cv8mDKaR#Fo3srMxrmuW753YLhrzP3nCkFtu_j-pjEPJdXbZ9nHo' // PUT your session ID BY scan QR 
 
 // databse URL  ##Required 
-global.POSTGRESQL_URL = ''
+global.POSTGRESQL_URL = 'postgres://cnc_bot_user:qNlo88iPXqUOJx73wn7zVdZ00k8o4sYj@dpg-cn9jaoed3nmc73dij5k0-a.oregon-postgres.render.com/cnc_bot'
 
  
 
 // ⚙️ OWNER SETTINGS  ⚙️
 
-global.OWNER_NUMBER = '94767438882'
+global.OWNER_NUMBER = '94728282261'
 
-global.OWNER_NAME = 'Janiya_X'
+global.OWNER_NAME = '𝙳𝙰𝚁𝙺 𝚂𝚃𝙰𝚁'
 
 global.TIMEZONE = 'Asia/Colombo' 
 
@@ -41,21 +41,22 @@ global.OPENAI_API_KEY = "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"
 ⚙️ BOT  SETTINGS  ⚙️
 */
 
-global.BOT_NAME = 'ǫᴜᴇᴇɴ ɴɪʟᴜ'
+global.BOT_NAME = '𝓒𝓝𝓒 𝓑𝓞𝓣
+'
 
-global.FOOTER = 'Queen Nilu 2023'
+global.FOOTER = ' 𝐶𝑁𝐶 𝐵𝑂𝑇 2023'
 
 global.BOT_OFFLINE = false    //  Always Onlne -  | false offline -True
 
-global.STICKER_NAME = '@Janiya 🤹‍♂️' //sticker
+global.STICKER_NAME = '@CNC 🤹‍♂️' //sticker
 
 global.LANG = 'EN' // Language (EN-  TO english  ,  SI- TO sinhala )
 
 global.PREFIX = '.' // Bot Prefix
 
-global.CAPTION = 'ǫᴜᴇᴇɴ ɴɪʟᴜ  © 2023' // Caption
+global.CAPTION = '𝐶𝑁𝐶 𝐵𝑂𝑇  © 2024' // Caption
 
-global.ALIVELOGO = 'https://telegra.ph/file/1e63f0ee90304a12767c7.jpg' // Set Alive Logo link 
+global.ALIVELOGO = 'https://telegra.ph/file/7bec65ba5668088232246.jpg' // Set Alive Logo link 
 
 global.ALIVE_MESSAGE = '' // Set Alive Message
 
@@ -69,14 +70,14 @@ global.ANTI_LINK = true //Anti Link (on = True , Off = False )
 
 global.ANTI_BOTS = true
 
-global.ONLY_GROUP = 'false' // Only group mode
+global.ONLY_GROUP = 'true' // Only group mode
 
-global.GROUP_LINK = 'https://chat.whatsapp.com/IRdyJY5P4sF5BhtP5PIdHH' // ur group link
+global.GROUP_LINK = 'https://chat.whatsapp.com/L5bnQX4BOPU2VA2HmXGEFa' // ur group link
 
 
 /* 18 + Download Settings */
 
-global.SEX_DL = 'false' // 18 + video dl
+global.SEX_DL = 'true' // 18 + video dl
 
 /* AUTO REPLY SETTINGS */
 
@@ -89,6 +90,6 @@ global.VOICE_REPLY = true
 
 /* V card */
 
-global.ytname = "YT: janithsadanuwan" //ur yt chanel name
-global.socialm = "GitHub: janithsadanuwan" //ur github or insta name
+global.ytname = "YT: ANY GAME REVIEW" //ur yt chanel name
+global.socialm = "GitHub: mybothere" //ur github or insta name
 global.location = "Srilanka, colombo" //ur location
